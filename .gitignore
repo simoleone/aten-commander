@@ -1,0 +1,6 @@
+# Bezel X installer kept locally for reference, not redistributed
+BEZEL X_v1_0_002/
+BEZELX_MacOS_v*.zip
+
+# build output
+/atenswitch
